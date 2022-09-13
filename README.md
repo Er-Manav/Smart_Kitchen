@@ -2,8 +2,6 @@
 
 ![SmartKitchen](https://user-images.githubusercontent.com/69981113/189880331-545c7851-1e6a-4e05-8f31-ce0298515968.PNG)
 
-![Slide18](https://user-images.githubusercontent.com/69981113/189880447-24b19565-928b-49b3-beeb-e086f2e75882.PNG)
-
 ![Slide3](https://user-images.githubusercontent.com/69981113/189880456-dfcf4f75-9340-4d4a-9fbf-97e30c537cae.PNG)
 
 ![Slide4](https://user-images.githubusercontent.com/69981113/189880519-0b43b7a6-5a53-471c-86aa-84215dd1f99c.PNG)
